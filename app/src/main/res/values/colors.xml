@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#030806</color>
+    <color name="gh_bg">#0D1117</color>
+    <color name="gh_surface">#161B22</color>
+    <color name="gh_border">#30363D</color>
+    <color name="gh_text">#E6EDF3</color>
+    <color name="gh_muted">#8B949E</color>
+    <color name="gh_green">#39D353</color>
+    <color name="gh_green_dim">#26A641</color>
+    <!-- Matrix palette, used by the widget and launcher icon. -->
+    <color name="mx_bg">#030806</color>
+    <color name="mx_border">#0F3D1A</color>
+    <color name="mx_green">#39FF14</color>
+    <color name="mx_green_dim">#1FA34A</color>
+    <color name="mx_cell">#0C2A13</color>
+</resources>

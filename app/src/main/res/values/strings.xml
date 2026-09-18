@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tomato Clock</string>
+    <string name="widget_description">Clock with your saved timers and Pomodoro at a tap.</string>
+    <string name="notif_channel_countdown">Running timers</string>
+    <string name="notif_channel_alarm">Timer finished</string>
+</resources>

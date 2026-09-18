@@ -1,0 +1,4 @@
+-keepattributes *Annotation*, InnerClasses
+-keep,includedescriptorclasses class dev.jiankaichen.clock.**$$serializer { *; }
+-keepclassmembers class dev.jiankaichen.clock.** { *** Companion; }
+-keepclasseswithmembers class dev.jiankaichen.clock.** { kotlinx.serialization.KSerializer serializer(...); }
